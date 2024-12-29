@@ -1,0 +1,6 @@
+{
+    "dataset_folder": "C:\\\\Object Model Classification\\\\datasets",
+    "output_folder": "C:\\Object Model Classification\\processed_videos",
+    "min_contour_area": 500,
+    "model_state_file": "mog2_state.npy"
+}
